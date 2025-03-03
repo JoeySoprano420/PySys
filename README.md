@@ -301,3 +301,11 @@ def add(a, b):
 ### **5. Conclusion**
 
 The **Imperial Superior Evaluation System (ISES)** provides an advanced approach to converting human-readable code into highly optimized machine instructions. By scrutinizing and breaking down the code, mapping it to intuitive commands, generating machine-executable keys, and providing detailed comments, this system aims to enhance both performance and understanding. This system bridges the gap between high-level coding and low-level execution, ensuring efficiency, readability, and maintainability.
+
+
+
+
+Privileges: For most of these tasks, you will need administrator privileges to change power plans, adjust CPU settings, and access BIOS-level tools.
+Ryzen Master: For Ryzen processors, Ryzen Master needs to be installed to interact with performance settings.
+BIOS Configuration Utility: For HP laptops, you need the HP BIOS Configuration Utility (BCU) installed to modify BIOS settings programmatically.
+This approach provides a practical way to manipulate CPU settings and interact with low-level hardware features on a Windows-based HP laptop with an AMD Ryzen processor. Direct manipulation of BIOS settings can often only be done using manufacturer-specific tools or through UEFI shell scripting in Windows.
