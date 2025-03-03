@@ -1,0 +1,16 @@
+// Pseudo code for multi-threaded multitasking with static checks
+THREAD_1:
+    ALLOCATE MEMORY A;
+    DO TASK A;
+    GENERATE REPORT A;
+
+THREAD_2:
+    ALLOCATE MEMORY B;
+    DO TASK B;
+    GENERATE REPORT B;
+
+CHECK_CONSISTENCY:
+    IF MEMORY A != MEMORY B THEN
+        ERROR: MEMORY MISMATCH;
+    END IF
+    RETURN CONSISTENCY REPORT;
